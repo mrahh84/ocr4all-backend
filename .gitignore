@@ -1,2 +1,4 @@
 /.idea/
 /.project
+.env
+/ocr4all-dev/
